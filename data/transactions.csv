@@ -1,0 +1,6 @@
+transaction_id,customer,amount
+1,Alice,120.50
+2,Bob,75.20
+3,Charlie,200.00
+4,David,50.00
+5,Eve,340.80
